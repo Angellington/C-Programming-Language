@@ -3,5 +3,5 @@
 
 int main(void){
     system("cls");
-    printf("Hello World");
+    printf("Hello World\n");
 }
